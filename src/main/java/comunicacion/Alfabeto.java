@@ -32,6 +32,6 @@ public class Alfabeto extends Pictograma {
 
     @Override
     public String toString() {
-        return  Arrays.toString(letras);
+        return letras.toString();
     }
 }
